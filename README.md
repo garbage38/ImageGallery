@@ -1,3 +1,3 @@
 # ImageGallery
 
-To see visit the link :
+To see visit the link :   https://nirmal38.github.io/ImageGallery/
